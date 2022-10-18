@@ -1,6 +1,6 @@
 {
   "name": "@exercism/babel-preset-typescript",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Babel preset configuration for the TypeScript track on Exercism",
   "main": "index.js",
   "author": "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info>",
@@ -10,7 +10,7 @@
     "@babel/node": "^7.19.1",
     "@babel/preset-env": "^7.19.4",
     "@babel/preset-typescript": "^7.18.6",
-    "core-js": "^3.25.5"
+    "core-js": "~3.25.5"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
