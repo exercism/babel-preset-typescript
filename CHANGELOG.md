@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0
+
+- Add core-js pinning to `3.30.x`
+- Enable overriding the core-js version via options
+
 ## 0.2.1
 
 - Add core-js pinning to `3.25.x`
