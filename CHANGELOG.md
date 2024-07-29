@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.0
+
+- Add core-js pinning to `3.37.x`
+- Upgrade to Yarn 4
+
 ## 0.4.0
 
 - Upgrade to Yarn 3
