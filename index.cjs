@@ -8,7 +8,7 @@ module.exports = function (_api, opts = {}) {
             node: 'current',
           },
           useBuiltIns: 'usage',
-          corejs: opts['corejs'] || '3.37',
+          corejs: opts['corejs'] || '3.38',
         },
       ],
       require('@babel/preset-typescript'),
