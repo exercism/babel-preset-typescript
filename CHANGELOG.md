@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.0
+
+- Move to `pnpm`
+- Add core-js pinning to `3.43.x`
+- Add preset test
+
 ## 0.6.0
 
 - Add core-js pinning to `3.38.x`
